@@ -1,3 +1,3 @@
-Junior C# developer with a background in project management and process improvements located in Malmö, Sweden.
+Self-taught C# backend developer with engineering background in mechanical engineering, product development, project management and process improvements. Located in Malmö, Sweden.
 
 https://www.linkedin.com/in/gustaf-ahlner/
